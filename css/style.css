@@ -81,3 +81,8 @@ section {
 .badge {
   margin-right: 6px;
 }
+
+.small-link {
+  font-size: 0.75em;
+  text-decoration: underline;
+}
