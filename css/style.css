@@ -76,6 +76,7 @@ section {
 .more-section-card img {
   padding: 1em;
   max-width: 210px;
+  max-height: 130px;
 }
 
 .badge {
