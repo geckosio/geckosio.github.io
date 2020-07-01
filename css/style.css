@@ -38,7 +38,7 @@ p {
   margin-bottom: 0.5em;
 }
 
-section {
+.section {
   max-width: 1000px;
   margin: 96px auto 96px auto;
 }
@@ -85,5 +85,17 @@ section {
 
 .small-link {
   font-size: 0.75em;
+  text-decoration: underline;
+}
+
+#sponsor-section {
+  background-color: #fafbfc;
+  text-align: center;
+  padding: 16px;
+  color: #6a6a6a;
+}
+
+#sponsor-section a {
+  color: #6a6a6a;
   text-decoration: underline;
 }
